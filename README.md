@@ -1,6 +1,11 @@
 ### A simple digital clock made with react.js hooks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Fork on Codesandbox: [Link](https://codesandbox.io/s/nameless-sun-p6grv)
+
+Preview:  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1599370135/Blogimages/digitalclock_kiqj9r.png" height=200 />
+
 ## Available Scripts
 
 In the project directory, you can run:
