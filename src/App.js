@@ -1,24 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState, useEffect} from 'react';
 import './App.css';
 
 function App() {
+  const [time, updateTime] = useState(new Date());
+  useEffect(()=> {
+    const timer = setInterval(() => {
+      updateTime(new Date());
+    }, 1000);
+    return () => clearInterval(timer);
+  },[])
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="elementcontainer">
+        <h1>Digital Clock</h1>
+        <div className="timeparent">
+          <div className="timecontainer">
+            {/* print the string prettily */}
+            <span className="time">
+            {time.toLocaleTimeString()}
+            </span>
+          </div>
+         </div>
+      </div>
+      <div className="footer">
+        <div>References: </div>
+        <div className="firstlink"> 
+          <a href="https://reactjsexample.com/glowing-orb-clock-made-with-react/">Reactjs Examples</a>
+        </div>
+        <span>, </span>
+        <div className="firstlink">
+        <a href="https://stackoverflow.com/questions/44920162/how-to-display-working-digital-clock-using-react">Stack Overflow</a>
+        </div>
+      </div>
     </div>
   );
 }
