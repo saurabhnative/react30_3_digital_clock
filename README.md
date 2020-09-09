@@ -1,7 +1,11 @@
-### A simple digital clock made with react.js hooks
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react30_3_digital_clock
+Digital clock app using react.js
 
-Fork on Codesandbox: [Link](https://codesandbox.io/s/nameless-sun-p6grv)
+### Objective:
+Build a digital clock app using react.js
+
+### Learnings:
+How to use `useEffect` hook in react.js and setInterval method in Javascript
 
 Preview:  
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1599370135/Blogimages/digitalclock_kiqj9r.png" height=200 />
