@@ -8,7 +8,7 @@ Build a digital clock app using react.js
 How to use `useEffect` hook in react.js and setInterval method in Javascript
 
 Preview:  
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056830/Blogimages/DigitalClock_thggps.gif" height=400 />
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1599370135/Blogimages/digitalclock_kiqj9r.png" height=200 />
 
 ## Available Scripts
 
