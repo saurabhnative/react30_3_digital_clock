@@ -13,7 +13,9 @@ By using this Hook, you tell React that your component needs to do something aft
 
 When Should You use useEffect?   
 Well, the idea to use useEffect hook is to execute code that needs happens during lifecycle of the component instead of on specific user interactions or DOM events.
-### Preview:  
+
+### Implementations:
+[Sample Solution](https://github.com/codeclassifiers/react30_3_digital_clock/tree/master/sample_solution):  
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056830/Blogimages/DigitalClock_thggps.gif" height=400 />
 
 ## Available Scripts
