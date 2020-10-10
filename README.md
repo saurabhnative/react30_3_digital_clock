@@ -5,8 +5,12 @@ Digital clock app using react.js
 Build a digital clock app using react.js
 
 ### Learnings:
-How to use `useEffect` hook in react.js and setInterval method in Javascript
+How to use `useEffect` hook in react.js and setInterval method in Javascript.
 
+#### useEffect
+What does useEffect do? By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we'll refer to it as our “effect”), and call it later after performing the DOM updates.
+
+When Should You use useEffect? Well,The idea to use useEffect hook is to execute code that needs happens during lifecycle of the component instead of on specific user interactions or DOM events.
 ### Preview:  
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056830/Blogimages/DigitalClock_thggps.gif" height=400 />
 
