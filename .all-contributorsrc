@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kryptondv",
+      "name": "Bogumił Morawski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65389522?v=4",
+      "profile": "http://bogumilmorawski.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
