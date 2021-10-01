@@ -22,11 +22,20 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "CLOEI",
+      "name": "Cendy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57063107?v=4",
+      "profile": "https://github.com/CLOEI",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "react30_3_digital_clock",
-  "projectOwner": "codeclassifiers",
+  "projectOwner": "saurabhnative",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
