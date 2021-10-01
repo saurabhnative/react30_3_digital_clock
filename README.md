@@ -1,6 +1,6 @@
 # react30_3_digital_clock
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Digital clock app using react.js
 
@@ -70,13 +70,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/bineetNaidu"><img src="https://avatars0.githubusercontent.com/u/66471461?v=4" width="100px;" alt=""/><br /><sub><b>bineetNaidu</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_3_digital_clock/commits?author=bineetNaidu" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://bogumilmorawski.com"><img src="https://avatars2.githubusercontent.com/u/65389522?v=4" width="100px;" alt=""/><br /><sub><b>Bogumił Morawski</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_3_digital_clock/commits?author=kryptondv" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bineetNaidu"><img src="https://avatars0.githubusercontent.com/u/66471461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bineetNaidu</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_3_digital_clock/commits?author=bineetNaidu" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://bogumilmorawski.com"><img src="https://avatars2.githubusercontent.com/u/65389522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bogumił Morawski</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_3_digital_clock/commits?author=kryptondv" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/CLOEI"><img src="https://avatars.githubusercontent.com/u/57063107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cendy</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_3_digital_clock/commits?author=CLOEI" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
