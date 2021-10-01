@@ -21,7 +21,7 @@ Well, the idea to use useEffect hook is to execute code that needs happens durin
 <!-- Add learning resources here -->
 [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
 
-[A Guide to Learning useEffect](https://reactjs.org/docs/hooks-effect.html)
+[A Guide to Learning useEffect](https://dev.to/mukuljainx/useeffect-the-basics-and-the-secrets-4ehg)
 
 [useEffect in depth with example](https://medium.com/swlh/react-hook-a-guide-to-learning-useeffect-11687e777aeb)
 
